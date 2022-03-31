@@ -2,7 +2,7 @@
 ## 🔰 Frontend Software Engineer 🔰
 
 :rocket: - Frontend web engineer with a proven ability to write clean, modular, reusable code and willingness to learn more, with a desire to apply learned skills.
-🧐 - I'm interested in growing my experience in Web Development  
+🧐 - I'm interested in growing my experience in Web Engineering  
 🤓 - I love working on challenging projects  
 👨‍💻 - I'm currently working with React, Bootstrap and Ant Design   
 
@@ -18,4 +18,5 @@
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
 
 ## Most used:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghaith&theme=dark)
