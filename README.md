@@ -28,7 +28,7 @@
 ## Stats:
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-## Top Repositories
+## Top Repositories:
 <a href="https://github.com/aghaith/pro-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=pro-shop" />
 </a>
