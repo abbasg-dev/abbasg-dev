@@ -26,4 +26,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghaith&theme=dark)  
 
 ## Stats:
-![](https://github-readme-stats.vercel.app/api?username=aghaith&show_icons=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&theme=nord)
