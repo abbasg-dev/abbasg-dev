@@ -26,4 +26,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghaith&theme=dark)  
 
 ## Stats:
-[![Abbas Ghaith's Github States](https://github-readme-stats.vercel.app/api?username=aghaith&show_icons=true&theme=dracula)](https://github.com/aghaith/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=aghaith&show_icons=true&theme=nord)
