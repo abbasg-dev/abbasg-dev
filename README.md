@@ -24,5 +24,5 @@
 ## Most used:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghaith&theme=dark)  
 
-## Abbas Ghaith's Github Stats:
-[!(https://github-readme-stats.vercel.app/api?username=aghaith&show_icons=true&theme=dracula)](https://github.com/aghaith/github-readme-stats)
+## Stats:
+[![Abbas Ghaith's Github States](https://github-readme-stats.vercel.app/api?username=aghaith&show_icons=true&theme=dracula)](https://github.com/aghaith/github-readme-stats)
