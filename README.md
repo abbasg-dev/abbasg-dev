@@ -41,7 +41,7 @@
 ## Stats:
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-##⚡ Recent GitHub Activity
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/aghaith"><img alt="Abbas Ghaith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aghaith&custom_title=Abbas%20Ghaith%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
