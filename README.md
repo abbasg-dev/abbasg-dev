@@ -48,7 +48,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aghaith&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
   
 ## Top Repositories:
-
+<a href="https://github.com/aghaith/pro-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=pro-shop" />
+</a>
 <a href="https://github.com/aghaith/developers-network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=developers-network" />
 </a>
