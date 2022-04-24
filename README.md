@@ -41,6 +41,11 @@
 ## Stats:
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/aghaith"><img alt="Abbas Ghaith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aghaith&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
 ## Top Repositories:
 <a href="https://github.com/aghaith/pro-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=pro-shop" />
