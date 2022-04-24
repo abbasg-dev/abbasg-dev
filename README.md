@@ -36,10 +36,10 @@
 <br/><br/><br/>
 
 ## Most used:
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aghaith&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aghaith&langs_count=10&layout=compact&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
 )
 ## Stats:
-![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
