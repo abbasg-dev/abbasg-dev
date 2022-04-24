@@ -30,7 +30,7 @@
 <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:4px;" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Angular" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:4px;" />
-<br/><br/>
+<br/><br/><br/>
 
 ## Most used:
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aghaith&langs_count=10&layout=compact&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
