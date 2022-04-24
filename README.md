@@ -43,7 +43,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aghaith"><img alt="Abbas Ghaith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aghaith&custom_title=Abbas%Ghaith%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aghaith"><img alt="Abbas Ghaith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aghaith&custom_title=Abbas Ghaith's Contribution Graph&theme=react-dark" /></a>
   <br/>
   
 ## Top Repositories:
