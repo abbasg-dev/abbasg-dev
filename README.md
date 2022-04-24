@@ -45,7 +45,6 @@
   <br/>
    <a href="https://github.com/aghaith"><img alt="Abbas Ghaith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aghaith&custom_title=Abbas%20Ghaith%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  <br/>
 
 ### :trophy: Git profile Trophies
 
