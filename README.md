@@ -5,7 +5,7 @@
 
 🧐 - I'm interested in growing my experience in Web Engineering.  
 🤓 - I love web coding challenges.  
-👨‍💻 - I'm currently working with React, Bootstrap and Ant Design.  
+👨‍💻 - Currently, I'm working with React, Bootstrap and Ant Design.  
 🌐 - [My Portfolio Website](https://abbasg.netlify.app).  
 
 ![](https://komarev.com/ghpvc/?username=aghaith&color=green)  
