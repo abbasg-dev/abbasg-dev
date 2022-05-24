@@ -40,7 +40,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aghaith"><img alt="Abbas Ghaith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aghaith&custom_title=Abbas%20Ghaith%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://activity-graph.herokuapp.com/graph?username=aghaith&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
   <br/>
 
 ### :trophy: Git profile Trophies
