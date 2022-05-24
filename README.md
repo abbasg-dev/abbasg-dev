@@ -38,11 +38,6 @@
 ## Stats:
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://activity-graph.herokuapp.com/graph?username=aghaith&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"></a>
-  <br/>
-
 ### :trophy: Git profile Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aghaith&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
