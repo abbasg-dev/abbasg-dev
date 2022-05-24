@@ -40,7 +40,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://activity-graph.herokuapp.com/graph?username=aghaith&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
+   <a href="https://activity-graph.herokuapp.com/graph?username=aghaith&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"></a>
   <br/>
 
 ### :trophy: Git profile Trophies
