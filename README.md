@@ -1,5 +1,5 @@
 # Hi I'm Abbas Ghaith
-## 🔰 Frontend Software Engineer 🔰
+## 🔰 Senior React JS Software Engineer 🔰
 
 :rocket: - Frontend web engineer with a proven ability to write clean, modular, reusable code and willingness to learn more, with a desire to apply learned skills.
 
