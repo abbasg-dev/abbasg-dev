@@ -46,6 +46,6 @@
 <a href="https://github.com/aghaith/pro-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=pro-shop" />
 </a>
-<a href="https://github.com/aghaith/developers-network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=developers-network" />
+<a href="https://github.com/aghaith/campaigns-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=campaigns-management" />
 </a>
