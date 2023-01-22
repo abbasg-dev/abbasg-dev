@@ -24,18 +24,18 @@ Or by phone
 ## 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghaith&theme=algolia" />
 
-Skills: ReactJS, Redux, NextJS, Angular, TypeScript, NodeJS, JavaScript, SASS.
-
 Operating systems: Windows 10, Linux Fedora Desktop.
 
 ## Skills:   
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:4px;" />
 <img align="left" alt="CSS3" width="50px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" style="padding-right:4px;" />
 <img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:4px;" />
-<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:4px;" /> 
-<img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:4px;" />
+<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="padding-right:4px;" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Angular" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:4px;" />
+<img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:4px;" />
 <br/><br/><br/>
 
 ## Tools:
