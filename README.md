@@ -1,5 +1,5 @@
 # Hi I'm Abbas Ghaith
-## 🔰 Senior React JS Software Engineer 🔰
+## 🔰 Frontend Developer | UI UX Designer | ReactJS | Angular | Adobe XD 🔰
 
 :rocket: - Frontend web engineer with a proven ability to write clean, modular, reusable code and willingness to learn more, with a desire to apply learned skills.
 
@@ -43,9 +43,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aghaith&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
   
 ## Top Repositories:
-<a href="https://github.com/aghaith/pro-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=pro-shop" />
+<a href="https://github.com/aghaith/ngshop-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=ngshop-frontend" />
 </a>
-<a href="https://github.com/aghaith/campaigns-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=campaigns-management" />
+<a href="https://github.com/aghaith/cms-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=cms-client" />
 </a>
