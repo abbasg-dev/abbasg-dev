@@ -24,8 +24,6 @@ Or by phone
 ## 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghaith&theme=algolia" />
 
-Operating systems: Windows 10, Linux Fedora Desktop.
-
 ## Skills:   
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:4px;" />
 <img align="left" alt="CSS3" width="50px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" style="padding-right:4px;" />
@@ -51,6 +49,11 @@ Operating systems: Windows 10, Linux Fedora Desktop.
 <img align="left" alt="Asana" width="50px" src="https://cdn.worldvectorlogo.com/logos/asana-logo.svg" style="padding-right:4px;" />
 <img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
+<br/><br/><br/>
+
+## Operating systems
+<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" style="padding-right:4px;" />
 <br/><br/><br/>
 
 ## Most used:
