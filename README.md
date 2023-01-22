@@ -3,9 +3,21 @@
 
 :rocket: - Frontend web engineer with a proven ability to write clean, modular, reusable code and willingness to learn more, with a desire to apply learned skills.
 
-🧐 - I'm interested in growing my experience in Web Engineering.  
-🤓 - I love web coding challenges.  
-👨‍💻 - Currently, I'm working with React, Bootstrap, Ant Design and Material UI.  
+I'm a mid-senior level Frontend Engineer with 4 years of experience. Skilled in ReactJS Technology.
+My portfolio includes several ERP, POS and E-commerce projects.
+
+Skills: ReactJS, Redux, NextJS, Angular 13, TypeScript, NodeJS, JavaScript, SASS.
+
+Operating systems: Windows 10, Linux Fedora Desktop.
+
+Tools: VS Code, NodeJS, MongoDB/Atlas, Postman, Git, GitHub, Zenhub, Jira, Asana, Slack.
+
+Feel free to send me a message or email me
+abbasghayth5@gmail.com
+
+Or by phone
++961 76 775 365
+
 🌐 - [My Portfolio Website](https://abbasg.netlify.app).  
 
 ![](https://komarev.com/ghpvc/?username=aghaith&color=green)  
