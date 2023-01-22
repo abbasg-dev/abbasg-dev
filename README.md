@@ -40,6 +40,8 @@ Or by phone
 <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:4px;" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Angular" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
+<br/><br/><br/>
 <br/><br/><br/>
 
 ## Most used:
