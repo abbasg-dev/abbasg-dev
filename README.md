@@ -4,12 +4,6 @@
 :rocket: I'm a mid-senior level Frontend Engineer with 4 years of experience, skilled in ReactJS Technology. Design experience with a UX/UI Design.
 My portfolio includes several ERP, POS and E-commerce projects.
 
-Skills: ReactJS, Redux, NextJS, Angular, TypeScript, NodeJS, JavaScript, SASS.
-
-Operating systems: Windows 10, Linux Fedora Desktop.
-
-Tools: VS Code, NodeJS, MongoDB/Atlas, Postman, Git, GitHub, Zenhub, Jira, Asana, Slack.
-
 Feel free to send me a message or email me
 abbasghayth5@gmail.com
 
@@ -30,10 +24,11 @@ Or by phone
 ## 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghaith&theme=algolia" />
 
-## Skills and Tools:  
-<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />
-<img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:4px;" />
+Skills: ReactJS, Redux, NextJS, Angular, TypeScript, NodeJS, JavaScript, SASS.
+
+Operating systems: Windows 10, Linux Fedora Desktop.
+
+## Skills:   
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:4px;" />
 <img align="left" alt="CSS3" width="50px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" style="padding-right:4px;" />
 <img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:4px;" />
@@ -42,6 +37,20 @@ Or by phone
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Angular" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:4px;" />
 <br/><br/><br/>
+
+## Tools:
+<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />
+<img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:4px;" />
+<img align="left" alt="MongoDB/Atlas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:4px;" />
+<img align="left" alt="MongoDB/Atlas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:4px;" />
+<img align="left" alt="Postman" width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:4px;" />
+<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:4px;" />
+<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Zenhub" width="50px" src="https://www.svgrepo.com/show/354602/zenhub-icon.svg" style="padding-right:4px;" />
+<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right:4px;" />
+<img align="left" alt="Asana" width="50px" src="https://cdn.worldvectorlogo.com/logos/asana-logo.svg" style="padding-right:4px;" />
+<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
 
 ## Most used:
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aghaith&langs_count=10&layout=compact&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
