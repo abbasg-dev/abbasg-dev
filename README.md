@@ -16,7 +16,7 @@ abbasghayth5@gmail.com
 Or by phone
 +961 76 775 365
 
-🌐 - [My Portfolio Website](https://abbasg.netlify.app).  
+🌐 [My Portfolio Website](https://abbasg.netlify.app).  
 
 ![](https://komarev.com/ghpvc/?username=aghaith&color=green)  
 
