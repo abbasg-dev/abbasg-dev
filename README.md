@@ -4,7 +4,7 @@
 :rocket: I'm a mid-senior level Frontend Engineer with 4 years of experience. Skilled in ReactJS Technology.
 My portfolio includes several ERP, POS and E-commerce projects.
 
-Skills: ReactJS, Redux, NextJS, Angular 13, TypeScript, NodeJS, JavaScript, SASS.
+Skills: ReactJS, Redux, NextJS, Angular, TypeScript, NodeJS, JavaScript, SASS.
 
 Operating systems: Windows 10, Linux Fedora Desktop.
 
