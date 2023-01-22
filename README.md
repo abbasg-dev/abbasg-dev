@@ -42,7 +42,6 @@ Operating systems: Windows 10, Linux Fedora Desktop.
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />
 <img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:4px;" />
 <img align="left" alt="MongoDB/Atlas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:4px;" />
-<img align="left" alt="MongoDB/Atlas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:4px;" />
 <img align="left" alt="Postman" width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:4px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:4px;" />
 <img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:4px;" />
