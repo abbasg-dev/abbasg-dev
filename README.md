@@ -31,6 +31,7 @@ Or by phone
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghaith&theme=algolia" />
 
 ## Skills and Tools:  
+<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:4px;" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:4px;" />
@@ -40,7 +41,6 @@ Or by phone
 <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:4px;" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Angular" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:4px;" />
-<img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
 <br/><br/><br/>
 <br/><br/><br/>
 
