@@ -1,5 +1,5 @@
 # Hi I'm Abbas Ghaith
-## 🔰 Frontend Developer | UI UX Designer | ReactJS | Angular | Adobe XD 🔰
+## 🔰 Frontend Developer | UX/UI Designer | ReactJS | Angular 🔰
 
 :rocket: I'm a mid-senior level Frontend Engineer with 4 years of experience. Skilled in ReactJS Technology.
 My portfolio includes several ERP, POS and E-commerce projects.
