@@ -35,6 +35,7 @@ Or by phone
 <img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Angular" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:4px;" />
 <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Jest" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" style="padding-right:4px;" />
 <br/><br/><br/>
 
 ## Tools
