@@ -44,10 +44,10 @@ Or by phone
 <img align="left" alt="MongoDB/Atlas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:4px;" />
 <img align="left" alt="Postman" width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:4px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:4px;" />
+<img align="left" alt="GitLab" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:4px;" />
 <img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Zenhub" width="50px" src="https://www.svgrepo.com/show/354602/zenhub-icon.svg" style="padding-right:4px;" />
-<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right:4px;" />
-<img align="left" alt="GitLab" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:4px;" />
+<img align="left" alt="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right:4px;" />
 <img align="left" alt="Asana" width="50px" src="https://cdn.worldvectorlogo.com/logos/asana-logo.svg" style="padding-right:4px;" />
 <img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Adobe XD" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:4px;" />
