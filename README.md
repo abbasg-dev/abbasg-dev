@@ -8,7 +8,7 @@ Feel free to send me a message or email me
 abbasghayth5@gmail.com
 
 Or by phone
-+961 76 775 365
++971 52 517 8442
 
 ![](https://komarev.com/ghpvc/?username=aghaith&color=green)  
 
