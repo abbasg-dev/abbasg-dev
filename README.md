@@ -3,7 +3,7 @@
 
 :rocket: Results-oriented Senior Frontend Engineer with a proven track record of delivering outstanding outcomes. Over the course of my career, I've achieved consistent improvements in application performance and user engagement. I'm skilled in optimizing application performance, REST API development, state management (including Vuex and Redux.js), and fostering cross-functional collaboration in Agile development environments. My collaborative approach has enabled me to work effectively with cross-functional teams, enhancing communication and project success. You can reach out to me by email at abbasghayth5@gmail.com, or you can contact me by phone at +971 52 517 8442, and I'm open to connecting on LinkedIn as well.
 
-![](https://komarev.com/ghpvc/?username=aghaith&color=green)  
+![](https://komarev.com/ghpvc/?username=abbasg-dev&color=green)  
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
@@ -50,19 +50,19 @@
 <br/><br/><br/>
 
 ## Most used
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aghaith&langs_count=10&layout=compact&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abbasg-dev&langs_count=10&layout=compact&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
 )
 ## Stats
-![](https://github-readme-stats-one-bice.vercel.app/api?username=aghaith&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=abbasg-dev&orgs=acksession&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ### :trophy: Git profile Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aghaith&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbasg-dev&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
   
 ## Top Repositories
 <a href="https://github.com/aghaith/ngshop-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=ngshop-frontend" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=ngshop-frontend" />
 </a>
 <a href="https://github.com/aghaith/cms-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghaith&repo=cms-client" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=cms-client" />
 </a>
