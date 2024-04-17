@@ -61,7 +61,7 @@
   
 ## Top Repositories
 <a href="https://github.com/abbasg-dev/cms-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=kulushae" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=ngshop-frontend" />
 </a>
 <a href="https://github.com/abbasg-dev/cms-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=sf-crypto-currency-mobile-app" />
