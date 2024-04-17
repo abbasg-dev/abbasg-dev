@@ -58,11 +58,3 @@
 ### :trophy: Git profile Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbasg-dev&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
-  
-## Top Repositories
-<a href="https://github.com/abbasg-dev/cms-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=cms-client" />
-</a>
-<a href="https://github.com/abbasg-dev/sf-crypto-currency-mobile-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=sf-crypto-currency-mobile-app" />
-</a>
