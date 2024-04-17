@@ -8,12 +8,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <a href="mailto:abbasghayth5@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/aghaith"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/abbasg-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/abbasghaith/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/abbashghaith"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 ## 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aghaith&theme=algolia" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasg-dev&theme=algolia" />
 
 ## Skills   
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:4px;" />
@@ -60,9 +60,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbasg-dev&layout=compact&theme=algolia" alt="Abbas Ghaith" /></a>
   
 ## Top Repositories
-<a href="https://github.com/aghaith/ngshop-frontend">
+<a href="https://github.com/abbasg-dev/ngshop-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=ngshop-frontend" />
 </a>
-<a href="https://github.com/aghaith/cms-client">
+<a href="https://github.com/abbasg-dev/cms-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=cms-client" />
 </a>
