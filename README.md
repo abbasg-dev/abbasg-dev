@@ -61,7 +61,7 @@
   
 ## Top Repositories
 <a href="https://github.com/abbasg-dev/ngshop-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=ngshop-frontend&PAT_1" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=abbasg-dev&repo=ngshop-frontend" />
 </a>
 <a href="https://github.com/abbasg-dev/cms-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbasg-dev&repo=cms-client" />
