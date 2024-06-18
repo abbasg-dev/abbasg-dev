@@ -1,5 +1,5 @@
 # Hi I'm Abbas Ghaith
-## 🔰 Frontend Engineer | Expert in JavaScript, TypeScript, NodeJS, ReactJS, Angular, and Vue | Meta Front-End Developer Professional 🔰
+## 🔰 Frontend Engineer | Expert in JavaScript, TypeScript, NodeJS, ReactJS, Angular, and Vue | Certified Meta Front-End Developer Professional 🔰
 
 :rocket: Results-oriented Senior Frontend Engineer with a proven track record of delivering outstanding outcomes. Over the course of my career, I've achieved consistent improvements in application performance and user engagement. I'm skilled in optimizing application performance, REST API development, state management (including Vuex and Redux.js), and fostering cross-functional collaboration in Agile development environments. My collaborative approach has enabled me to work effectively with cross-functional teams, enhancing communication and project success. You can reach out to me by email at abbasghayth5@gmail.com, or you can contact me by phone at +971 52 517 8442, and I'm open to connecting on LinkedIn as well.
 
