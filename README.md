@@ -1,7 +1,62 @@
 # Hi I'm Abbas Ghaith
 ## 🔰 Sr. Front-End Developer | Meta Developer Professional | FrontendExpert Certified 🔰
 
-:rocket: Results-oriented Senior Frontend Engineer with a proven track record of delivering outstanding outcomes. Over the course of my career, I've achieved consistent improvements in application performance and user engagement. I'm skilled in optimizing application performance, REST API development, state management (including Vuex and Redux.js), and fostering cross-functional collaboration in Agile development environments. My collaborative approach has enabled me to work effectively with cross-functional teams, enhancing communication and project success. You can reach out to me by email at abbasghayth5@gmail.com, or you can contact me by phone at +971 52 517 8442, and I'm open to connecting on LinkedIn as well.
+I’m a Senior Frontend Engineer with 5+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in building web applications. I specialize in helping companies design and implement effective software solutions globally.
+
+About my skills: 
+
+✅ Front-end: 
+• React.js, Next.js, Vue.js
+• Javascript, JSX, TypeScript, ES6
+• MaterialUI, Ant Design, Bootstrap
+• GSAP (GreenSock Animation Platform)
+• HTML5, CSS 3, SASS, Less
+• Webpack
+• Babel
+• E-commerce Platforms
+• Blockchain and Smart Contracts
+• Progressive enhancement, Functional Programming, Clean Code
+
+✅ Testing:
+• Jest
+• React Testing Library
+
+✅ Back-end: 
+• NodeJS, ExpressJS
+• RestAPI, GraphQL
+• MongoDB 
+
+✅ CI/CD:
+• GitHub
+• Husky
+
+✅ Core Automation Technologies: 
+• Grunt
+• Eslint, Prettier
+
+✅ Enterprise Solutions:
+• Enterprise Resource Planning (ERP)
+• Point of Sale Systems (POS)
+
+✅ Development Tools:
+• Visual Studio Code
+• NPM
+• Git
+• GitHub Client
+
+✅ Project Management:
+• Jira
+
+✅ Design and Prototyping:
+• Figma
+• Adobe XD
+
+💻 Only interested in onsite work. Open to relocate.
+
+🤝 If you need software solutions for your business, don’t hesitate to contact me!
+
+📞 Phone: +961 76 775 365 / +971 52 517 8442
+📨 Email: abbasghayth5@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=abbasg-dev&color=green)  
 
