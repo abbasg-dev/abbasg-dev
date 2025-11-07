@@ -1,7 +1,7 @@
 # Hi I'm Abbas Ghaith
 ## 🔰 Frontend Developer | 6+ years of experience | JavaScript | TypeScript | React | Vue 3 | NodeJS | REST API | Full-stack Developer 🔰
 
-I’m a Senior Frontend Engineer with 5+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in building web applications. I specialize in helping companies design and implement effective software solutions globally.
+I’m a Senior Frontend Engineer with 6+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in building web applications. I specialize in helping companies design and implement effective software solutions globally.
 
 About my skills: 
 
